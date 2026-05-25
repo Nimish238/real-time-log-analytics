@@ -1,0 +1,1 @@
+{"time-stamp": "2026-05-25T14:33:18", "service": "search-service", "endpoint": "/checkout", "status_codes": 200, "response_time": 2622, "cpu_usage": 17, "memory_usage": 27, "ip_address": "103.24.222.220", "message": "success"}

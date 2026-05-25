@@ -1,0 +1,1 @@
+{"time-stamp": "2026-05-25T14:33:06", "service": "payment-service", "endpoint": "/checkout", "status_codes": 503, "response_time": 990, "cpu_usage": 24, "memory_usage": 48, "ip_address": "155.76.230.173", "message": "Error"}

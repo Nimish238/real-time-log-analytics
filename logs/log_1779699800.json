@@ -1,0 +1,1 @@
+{"time-stamp": "2026-05-25T14:33:20", "service": "auth-service", "endpoint": "/search", "status_codes": 503, "response_time": 3939, "cpu_usage": 59, "memory_usage": 60, "ip_address": "51.142.11.174", "message": "Error"}

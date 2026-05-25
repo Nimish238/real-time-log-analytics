@@ -1,0 +1,1 @@
+{"time-stamp": "2026-05-25T14:33:08", "service": "shipping-service", "endpoint": "/checkout", "status_codes": 404, "response_time": 400, "cpu_usage": 77, "memory_usage": 20, "ip_address": "95.250.122.152", "message": "Error"}

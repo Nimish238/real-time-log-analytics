@@ -1,0 +1,1 @@
+{"time-stamp": "2026-05-25T14:33:36", "service": "inventory-service", "endpoint": "/search", "status_codes": 404, "response_time": 1496, "cpu_usage": 45, "memory_usage": 26, "ip_address": "31.251.39.209", "message": "Error"}

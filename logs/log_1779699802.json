@@ -1,0 +1,1 @@
+{"time-stamp": "2026-05-25T14:33:22", "service": "shipping-service", "endpoint": "/products", "status_codes": 503, "response_time": 3243, "cpu_usage": 56, "memory_usage": 31, "ip_address": "187.214.92.1", "message": "Error"}

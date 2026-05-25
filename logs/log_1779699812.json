@@ -1,0 +1,1 @@
+{"time-stamp": "2026-05-25T14:33:32", "service": "payment-service", "endpoint": "/products", "status_codes": 200, "response_time": 2440, "cpu_usage": 27, "memory_usage": 78, "ip_address": "138.74.66.218", "message": "success"}
