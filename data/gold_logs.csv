@@ -1,0 +1,6 @@
+SERVICE,AVG_RESPONSE_TIME,REQUEST_COUNT,ERROR_COUNT
+shipping-service,2000.8,5,3
+search-service,2622,1,0
+payment-service,2497.75,4,2
+inventory-service,2085.5,2,0
+auth-service,2951.75,4,3
